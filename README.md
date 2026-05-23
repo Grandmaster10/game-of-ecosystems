@@ -1,6 +1,9 @@
 # Sarthaks Game of Market Ecosystems
 
-This is a bare-metal C program designed to run on the ARMv7-DE1-SoC FPGA board for the final Mini Project of the CS2206 Computer Architecture course. It puts an economic twist on the classic Game of Life simulation. Instead of basic cells, the grid simulates regional markets that rely on local trade. These markets can grow their capital, suffer from recessions, pool resources for bailouts, or crash completely from taking on too much risk.
+This is a bare-metal C program designed to run on the ARMv7-DE1-SoC FPGA board for the final Mini Project of the CS2206 Computer Architecture course. 
+
+It puts an economic twist on the classic Game of Life simulation. Instead of basic cells, the grid simulates regional markets that rely on local trade. 
+These markets can grow their capital, suffer from recessions, pool resources for bailouts, or crash completely from taking on too much risk.
 
 ## The Rules of the Simulation
 
